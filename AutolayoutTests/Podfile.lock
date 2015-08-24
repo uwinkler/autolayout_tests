@@ -1,0 +1,14 @@
+PODS:
+  - commons (0.0.1)
+
+DEPENDENCIES:
+  - commons (from `~/work/commons`)
+
+EXTERNAL SOURCES:
+  commons:
+    :path: ~/work/commons
+
+SPEC CHECKSUMS:
+  commons: 52a17eee63b4f9d2431aaf9218c0e4d93ddcf374
+
+COCOAPODS: 0.37.1

@@ -1,0 +1,21 @@
+{
+  "name": "commons",
+  "version": "0.0.1",
+  "summary": "A short description of commons.",
+  "description": "                   A longer description of commons in Markdown format.\n\n                   * Think: Why did you write this? What is the focus? What does it do?\n                   * CocoaPods will be using this to generate tags, and improve search results.\n                   * Try to keep it short, snappy and to the point.\n                   * Finally, don't worry about the indent, CocoaPods strips it!\n",
+  "homepage": "http://EXAMPLE/commons",
+  "license": "MIT (example)",
+  "authors": {
+    "uwinkler": "uwinkler@kodira.de"
+  },
+  "source": {
+    "git": "http://EXAMPLE/commons.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "commons",
+    "commons/**/*.{h,m}, commons/**/*.swift"
+  ],
+  "exclude_files": "commons/exclude",
+  "requires_arc": true
+}

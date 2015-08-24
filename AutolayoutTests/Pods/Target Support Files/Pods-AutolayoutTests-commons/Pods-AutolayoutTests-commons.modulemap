@@ -1,0 +1,6 @@
+framework module commons {
+  umbrella header "Pods-AutolayoutTests-commons-umbrella.h"
+
+  export *
+  module * { export * }
+}
